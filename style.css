@@ -204,7 +204,7 @@ h6,
 p,
 label,
 .btn,
-a{font-family:"helvetica";font-weight:400;color:#575757!important;}
+a{font-family:"helvetica";font-weight:400;color:#1F1F1F!important;}
 .container{max-width:1000px;}
 .hero-bloc-text{font-size:38px;}
 .hero-bloc-text-sub{font-size:36px;}
@@ -227,10 +227,10 @@ h4{color:#333333!important;}
 .black-background{background-color:rgba(165, 147, 99, 0.7);padding:40px 40px 40px 40px;}
 .bold-link{font-weight:900;text-decoration:underline!important;}
 .bgc-white{background-color:#FFFFFF;}
-.bgc-dark-slate-blue{background-color:#364577;}
-.bgc-atomic-tangerine{background-color:#F3976C;}
+.bgc-dark-slate-blue{background-color:#181F34;}
+.bgc-atomic-tangerine{background-color:#92360C;}
 .tc-white{color:#F3976C!important;}
-.btn-atomic-tangerine{background:#F3976C;color:#FFFFFF!important;}
+.btn-atomic-tangerine{background:#92360c;color:#FFFFFF!important;}
 .btn-atomic-tangerine:hover{background:#c27956!important;color:#FFFFFF!important;}
 .ltc-white{color:#FFFFFF!important;}
 .ltc-white:hover{color:#cccccc!important;}
