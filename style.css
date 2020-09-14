@@ -220,18 +220,18 @@ h3{font-size:15px;text-transform:uppercase;font-weight:700;color:#333333!importa
 h1{color:#333333!important;}
 h4{color:#333333!important;}
 .icons{margin-bottom:14px;margin-top:24px;}
-.white{color:#FFFFFF!important;}
+.white{color:#212121!important;}
 .portfolio-thumb{margin-bottom:24px;}
 .portfolio-row{margin-bottom:44px;margin-top:50px;}
 .avatar{box-shadow:0px 4px 9px rgba(0, 0, 0, 0.3);}
 .black-background{background-color:rgba(165, 147, 99, 0.7);padding:40px 40px 40px 40px;}
 .bold-link{font-weight:900;text-decoration:underline!important;}
 .bgc-white{background-color:#FFFFFF;}
-.bgc-dark-slate-blue{background-color:#364577;}
+.bgc-dark-slate-blue{background-color:#1A2137;}
 .bgc-atomic-tangerine{background-color:#F3976C;}
 .tc-white{color:#F3976C!important;}
-.btn-atomic-tangerine{background:#F3976C;color:#FFFFFF!important;}
-.btn-atomic-tangerine:hover{background:#F28D5F!important;color:#FFFFFF!important;}
+.btn-atomic-tangerine{background:#F3976C;color:#333!important;}
+.btn-atomic-tangerine:hover{background:#F28D5F!important;color:#333!important;}
 .ltc-white{color:#FFFFFF!important;}
 .ltc-white:hover{color:#cccccc!important;}
 .ltc-atomic-tangerine{color:#F3976C!important;}
