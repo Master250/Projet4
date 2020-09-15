@@ -209,7 +209,7 @@ a{font-family:"helvetica";font-weight:400;color:#1F1F1F!important;}
 .hero-bloc-text{font-size:38px;}
 .hero-bloc-text-sub{font-size:36px;}
 .statement-bloc-text{line-height:26px;font-style:italic;font-size:20px;text-align:center;font-weight:lighter;max-width:520px;margin:auto auto auto auto;}
-p{font-size:11px;}
+p{font-size:14px;}
 .tight-width-whitespace{max-width:600px;margin:auto auto auto auto;}
 .h1{font-size:20px;font-family:"Open Sans";}
 .cta-hero{margin-top:22px;color:#FFFFFF!important;text-transform:uppercase;padding:12px 28px 12px 28px;font-size:16px;font-weight:700;}
@@ -220,7 +220,7 @@ h3{font-size:15px;text-transform:uppercase;font-weight:700;color:#333333!importa
 h1{color:#333333!important;}
 h4{color:#333333!important;}
 .icons{margin-bottom:14px;margin-top:24px;}
-.white{color:#212121!important;}
+.white{color:#FFFFFF!important;}
 .portfolio-thumb{margin-bottom:24px;}
 .portfolio-row{margin-bottom:44px;margin-top:50px;}
 .avatar{box-shadow:0px 4px 9px rgba(0, 0, 0, 0.3);}
@@ -230,6 +230,7 @@ h4{color:#333333!important;}
 .bgc-dark-slate-blue{background-color:#0e0d0d;}
 .bgc-atomic-tangerine{background-color:#F3976C;}
 .tc-white{color:#F4B995!important;}
+.tc-black{color: #1F1F1F !important;}
 .btn-atomic-tangerine{background:#F3976C;color:#333!important;}
 .btn-atomic-tangerine:hover{background:#333!important;color: #F28D5F!important;}
 .ltc-white{color:#FFFFFF!important;}
