@@ -306,6 +306,10 @@ p,
 .voffset-md{margin-top:20px;}
 .voffset-lg{margin-top:30px;}
 form{padding:5px;}
+.form-control{display: block;width: 100%;padding: 1rem 3rem;margin-top: 30px;margin-bottom: 20px;}
+.bloc-button{display: block;width: 100%;}
+.col-sm-6{padding: 20px;width: 50%;}
+.row{display: grid;justify-items: center;}
 .close-lightbox{display:inline-block;}
 .blocsapp-device-iphone5{background-size:216px 425px;padding-top:60px;width:216px;height:425px;}
 .blocsapp-device-iphone5 img{width:180px;height:320px;}
