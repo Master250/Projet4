@@ -1063,7 +1063,7 @@ output{display:block;padding-top:7px;font-size:14px;line-height:1.42857143;color
 .form-control::-moz-placeholder{color:#999;opacity:1}
 .form-control:-ms-input-placeholder{color:#999}
 .form-control::-webkit-input-placeholder{color:#999}
-.form-control[enabled],
+.form-control[disabled],
 .form-control[readonly],
 fieldset[disabled] .form-control{background-color:#eee;opacity:1}
 .form-control[disabled],
