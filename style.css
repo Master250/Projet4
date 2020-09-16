@@ -141,7 +141,7 @@ a:hover{text-decoration:none;cursor:pointer;}
 .form-control{display: block;width: 100%;padding: 1rem 3rem;margin-top: 30px;margin-bottom: 20px;}
 .bloc-button{display: block;width: 100%;}
 .col-sm-6{padding: 20px;width: 50%;}
-.row{display: grid;justify-items: center;}
+.row1{display: grid;justify-items: center;}
 @media (min-width:768px){.site-navigation{position:absolute;top:50%;right:20px;transform:translate(0, -50%);-webkit-transform:translateY(-50%);}
 .nav > li .dropdown-menu a,
 .nav > li .dropdown-menu a:hover{color:#484848;}
