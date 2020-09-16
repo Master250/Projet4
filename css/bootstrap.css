@@ -2530,7 +2530,7 @@ button.close{-webkit-appearance:none;padding:0;cursor:pointer;background:0 0;bor
 .pager:after,
 .panel-body:after,
 .row:after{clear:both}
-.center-block{display:block;margin-right:auto;margin-left:auto}
+.center-block{display:block;margin-right:auto;margin-left:auto;width: auto;}
 .pull-right{float:right !important}
 .pull-left{float:left !important}
 .hide{display:none !important}
