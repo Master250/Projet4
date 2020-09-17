@@ -138,11 +138,11 @@ a:hover{text-decoration:none;cursor:pointer;}
 .nav-invert .navbar .nav{float:left;}
 .nav-invert .navbar-header,
 .nav-invert .navbar-brand{float:right;position:relative;z-index:2;}
-.form-control{display:block;width:100%;padding:1rem 3rem;margin-top:30px;margin-bottom:20px;}
+.form-control{display:block;width:80%;padding:1rem 3rem;margin-top:30px;margin-bottom:20px;}
 .bloc-button{display:block;width:100%;}
 .col-sm-6{padding:20px;width:50%;}
 .row1{display:grid;justify-items:center;}
-@media (min-width:768px){.site-navigation{position:absolute;top:50%;right:20px;transform:translate(0, -50%);-webkit-transform:translateY(-50%);}
+@media (min-width:768px){.site-navigation{position:absolute;top:50%;transform:translate(0, -50%);-webkit-transform:translateY(-50%);}
 .nav > li .dropdown-menu a,
 .nav > li .dropdown-menu a:hover{color:#484848;}
 .nav-invert .site-navigation{left:0;right:0;}
@@ -286,7 +286,7 @@ p,
 .navbar .nav{padding-top:0;border-top:1px solid rgba(0, 0, 0, .2);float:none!important;}
 .navbar.row{margin-left:0;margin-right:0;}
 .site-navigation{position:inherit;transform:none;-webkit-transform:none;-ms-transform:none;}
-.nav > li{margin-top:0;border-bottom:1px solid rgba(0, 0, 0, .1);background:rgba(0, 0, 0, .05);text-align:left;padding-left:15px;width:100%;}
+.nav > li{display: flex;}
 .nav > li:hover{background:rgba(0, 0, 0, .08);}
 .dropdown .dropdown a .caret{float:none;margin:5px 0 0 10px!important;border:4px solid black;border-bottom-color:transparent;border-right-color:transparent;border-left-color:transparent;}
 #hero-bloc .navbar .nav{background:rgba(0, 0, 0, .8);}
@@ -320,6 +320,7 @@ form{padding:5px;}
 .col-sm-4{display: none;}
 .social{margin:auto auto auto auto;display: inline-flex;flex-flow: wrap;justify-content: center;}
 .bg-banniere {background-image: url("img/la-chouette-agence-banniere.jpg");width: auto;margin: 5px;}
+.col-sm-6 {padding: 5px;width: 100%;}.hero-bloc-text {font-size: 30px;}
 }
 @media (max-width:400px){.bloc{padding-left:0;padding-right:0;}.col-sm-6{padding:5px;width:100%;}
 }
