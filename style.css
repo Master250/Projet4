@@ -246,7 +246,6 @@ h4{color:#333333!important;}
 .bg-lines-h2-bg{background-image:url("img/lines-h2-bg.png");}
 .bg-banniere{background-image:url("img/la-chouette-agence-banniere.jpg");}
 .bg-presentation{background-image:url("img/image-de-presentation.jpg");}
-.col-sm-6{padding:5px;width:100%;}
 @media (max-width:1024px){.bloc{padding-left:20px;padding-right:20px;}
 .bloc.full-width-bloc,
 .bloc-tile-2.full-width-bloc .container,
