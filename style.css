@@ -314,7 +314,7 @@ p,
 .voffset{margin-top:5px;}
 .voffset-md{margin-top:20px;}
 .voffset-lg{margin-top:30px;}
-form{padding:5px;}
+form{padding:5px;width: 80%;}
 .close-lightbox{display:inline-block;}
 .blocsapp-device-iphone5{background-size:216px 425px;padding-top:60px;width:216px;height:425px;}
 .blocsapp-device-iphone5 img{width:180px;height:320px;}
@@ -323,7 +323,7 @@ form{padding:5px;}
 .bg-banniere {background-image: url("img/la-chouette-agence-banniere.jpg");width: auto;margin: 5px;}
 .col-sm-6 {padding: 5px;width: 80%;}.hero-bloc-text {font-size: 30px;}
 }
-@media (max-width:400px){.bloc{padding-left:0;padding-right:0;}.col-sm-6{padding:0px;width:80%;justify-content: flex-start;}
+@media (max-width:400px){.bloc{padding-left:0;padding-right:0;}.col-sm-6{padding:0px;width:100%;justify-content: flex-start;}
 }
 @media (max-width:767px){.bloc-mob-center-text{text-align:center;}
 }
