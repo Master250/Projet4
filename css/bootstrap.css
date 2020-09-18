@@ -1043,7 +1043,7 @@ table th[class*=col-]{position:static;display:table-cell;float:none}
 .table-responsive>.table-bordered>tbody>tr:last-child>th,
 .table-responsive>.table-bordered>tfoot>tr:last-child>td,
 .table-responsive>.table-bordered>tfoot>tr:last-child>th{border-bottom:0}
-img {vertical-align: middle;width: 100%;}
+img{vertical-align:middle;width:100%;}
 }
 fieldset{min-width:0;padding:0;margin:0;border:0}
 legend{display:block;width:100%;padding:0;margin-bottom:20px;font-size:21px;line-height:inherit;color:#333;border:0;border-bottom:1px solid #e5e5e5}
@@ -2531,7 +2531,7 @@ button.close{-webkit-appearance:none;padding:0;cursor:pointer;background:0 0;bor
 .pager:after,
 .panel-body:after,
 .row:after{clear:both}
-.center-block{display:block;margin-right:auto;margin-left:auto;width: auto;}
+.center-block{display:block;margin-right:auto;margin-left:auto;width:auto;}
 .pull-right{float:right !important}
 .pull-left{float:left !important}
 .hide{display:none !important}
