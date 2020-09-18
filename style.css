@@ -321,9 +321,9 @@ form{padding:5px;}
 .col-sm-4{display: none;}
 .social{margin:auto auto auto auto;display: inline-flex;flex-flow: wrap;justify-content: center;}
 .bg-banniere {background-image: url("img/la-chouette-agence-banniere.jpg");width: auto;margin: 5px;}
-.col-sm-6 {padding: 5px;width: 100%;}.hero-bloc-text {font-size: 30px;}
+.col-sm-6 {padding: 5px;width: 80%;}.hero-bloc-text {font-size: 30px;}
 }
-@media (max-width:400px){.bloc{padding-left:0;padding-right:0;}.col-sm-6{padding:5px;width:100%;}
+@media (max-width:400px){.bloc{padding-left:0;padding-right:0;}.col-sm-6{padding:0px;width:80%;justify-content: flex-start;}
 }
 @media (max-width:767px){.bloc-mob-center-text{text-align:center;}
 }
