@@ -261,7 +261,7 @@ h4{color:#333333!important;}
 .col-sm-6{padding:5px;width:100%;}
 .social{margin:auto auto auto auto;display: inline-flex;flex-flow: wrap;justify-content: center;}
 }
-@media only screen and (min-width:1024px) and (max-device-width:1366px) and (-webkit-min-device-pixel-ratio:1.5){.b-parallax{background-attachment:scroll;}
+@media only screen and (min-width:1024px) and (max-width:1366px) and (-webkit-min-device-pixel-ratio:1.5){.b-parallax{background-attachment:scroll;}
 }
 @media (max-width:991px){.container{width:100%;}
 .b-parallax{background-attachment:scroll;}
