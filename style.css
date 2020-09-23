@@ -272,7 +272,7 @@ h4{color:#333333!important;}
 .bloc-group .bloc{display:block;width:100%;}
 .bloc-fill-screen .fill-bloc-top-edge,
 .bloc-fill-screen .fill-bloc-bottom-edge{padding:0 20px;padding-left:constant(safe-area-inset-left);padding-right:constant(safe-area-inset-right);}
-.social{margin:auto auto auto auto;display: inline-flex;flex-flow: wrap;justify-content: center;}
+.social{margin:auto auto auto auto;flex-flow: wrap;justify-content: center;}
 }
 @media (max-width:767px){.page-container{overflow-x:hidden;position:relative;}
 h1,
@@ -319,7 +319,7 @@ form{padding:5px;width: 80%;}
 .blocsapp-device-iphone5{background-size:216px 425px;padding-top:60px;width:216px;height:425px;}
 .blocsapp-device-iphone5 img{width:180px;height:320px;}
 .col-sm-4{display: none;}
-.social{margin:auto auto auto auto;display: inline-flex;flex-flow: wrap;justify-content: center;}
+.social{margin:auto auto auto auto;flex-flow: wrap;justify-content: center;}
 .bg-banniere {background-image: url("img/la-chouette-agence-banniere.jpg");width: auto;margin: 5px;}
 .col-sm-6 {padding: 5px;width: 100%;}.hero-bloc-text {font-size: 30px;}
 }
